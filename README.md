@@ -20,11 +20,12 @@ Every subscriber gets:
 -  Personalized Angle based on their interests
 
 ## Tech Stack
-- Make.com (Automation)
-- Google Gemini AI
-- RSS Feed (Times of India)
-- Google Sheets
-- Gmail
+- Make.com (Automation Platform)
+- Google Gemini AI (Content Generation)
+- RSS Feed — Times of India / BBC India (News Source)
+- Google Sheets (Subscriber Database)
+- Gmail API (Email Delivery)
+- Google Forms (Subscriber Collection)
 
 ## Current Status
 - 41 active subscribers
