@@ -21,12 +21,12 @@ Every subscriber gets:
 
 ## Tech Stack
 - Make.com (Automation Platform)
-- Google Gemini AI (Content Generation)
+- Google Gemini API (REST API — Content Generation)
 - RSS Feed — Times of India / BBC India (News Source)
-- Google Sheets (Subscriber Database)
+- Google Sheets API (Subscriber Database)
 - Gmail API (Email Delivery)
 - Google Forms (Subscriber Collection)
-
+- 
 ## Current Status
 - 41 active subscribers
 - Fully automated — runs daily
