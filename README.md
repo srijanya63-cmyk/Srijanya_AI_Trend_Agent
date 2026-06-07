@@ -26,7 +26,7 @@ Every subscriber gets:
 - Google Sheets API (Subscriber Database)
 - Gmail API (Email Delivery)
 - Google Forms (Subscriber Collection)
-- 
+  
 ## Current Status
 - 41 active subscribers
 - Fully automated — runs daily
