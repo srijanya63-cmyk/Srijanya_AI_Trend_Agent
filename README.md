@@ -26,6 +26,9 @@ Every subscriber gets:
 - Google Sheets API (Subscriber Database)
 - Gmail API (Email Delivery)
 - Google Forms (Subscriber Collection)
+
+## Demo Video
+https://drive.google.com/file/d/1yUsCTwC_ePIxKA6070wHgGAoaMV_toRs/view?usp=drivesdk
   
 ## Current Status
 - 41 active subscribers
